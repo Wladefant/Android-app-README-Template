@@ -1,7 +1,7 @@
 # Infinity For Reddit
 
-<img src="/images/logo.png" align="left"
-width="200" hspace="10" vspace="10">
+[<img src="/images/logo.png" align="left"
+width="200" hspace="10" vspace="10">](https://raw.githubusercontent.com/Wladefant/Infinity-For-Reddit/master/fastlane/metadata/android/en-US/images/icon.png)
 
 Infinity For Reddit is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
 
@@ -87,7 +87,7 @@ Distributed under the AGPL-3.0 License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+docilealligator.app@gmail.com
 
 Project Link: [https://github.com/Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 
