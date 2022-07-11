@@ -87,7 +87,7 @@ Distributed under the AGPL-3.0 License. See `LICENSE` for more information.
 
 ## Contact
 
-docilealligator.app@gmail.com
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 
