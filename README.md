@@ -20,6 +20,11 @@ Infinity For Reddit is available on the Google Play Store and F-Droid.
         </a>
         </p>
 
+## Donation
+Patreon: https://www.patreon.com/docile_alligator
+
+Bitcoin: bc1qxtkd5ap9na7uy8nr9qpt6jny6tdwaj4v43ddle
+
 ## About The Project
 
 [<img src="images/screenshot1.png" align="left"
@@ -31,6 +36,24 @@ width="200"
 [<img src="images/screenshot3.png" align="center"
 width="200"
     hspace="10" vspace="10">](images/screenshot3.png)
+
+### Highlighted feature
+- Lazy mode: Automatic scrolling of posts enables you to enjoy amazing posts without moving your thumb.
+
+### Features
+- Browsing posts
+- View comments
+- Expand and collapse comments section
+- Vote posts and comments
+- Save posts
+- Write comments
+- Edit comments and delete comments
+- Submit posts (text, link, image and video)
+- Edit posts (mark and unmark NSFW and spoiler and edit flair) and delete posts
+- See all the subscribed subreddits and followed users
+- View the messages
+- Get notifications of unread messages
+- etc...
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
