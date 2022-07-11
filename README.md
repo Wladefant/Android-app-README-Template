@@ -1,4 +1,6 @@
-# Infinity For Reddit
+[![Contributors](https://img.shields.io/github/contributors/Wladefant/Android-app-README-Template.svg?style=for-the-badge)](https://github.com/Wladefant/Android-app-README-Template/graphs/contributors)
+
+# Readme for Reddit
 
 [<img src="/images/logo.png" align="left"
 width="200" hspace="10" vspace="10">](https://raw.githubusercontent.com/Wladefant/Infinity-For-Reddit/master/fastlane/metadata/android/en-US/images/icon.png)
