@@ -22,11 +22,6 @@ Infinity For Reddit is available on the Google Play Store and F-Droid.
         </a>
         </p>
 
-## Donation
-Patreon: https://www.patreon.com/docile_alligator
-
-Bitcoin: bc1qxtkd5ap9na7uy8nr9qpt6jny6tdwaj4v43ddle
-
 ## About The Project
 
 [<img src="images/screenshot1.png" align="left"
