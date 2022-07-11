@@ -22,6 +22,16 @@ Infinity For Reddit is available on the Google Play Store and F-Droid.
 
 ## About The Project
 
+[<img src="images/screenshot1.png" align="left"
+width="200"
+    hspace="10" vspace="10">](images/screenshot1.png)
+[<img src="images/screenshot2.png" align="center"
+width="200"
+    hspace="10" vspace="10">](images/screenshot2.png)
+[<img src="images/screenshot3.png" align="center"
+width="200"
+    hspace="10" vspace="10">](images/screenshot3.png)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributing
@@ -36,6 +46,11 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+Here are other ways you can help:
+
+* [Report bugs and make suggestions.](https://github.com/wallabag/android-app/issues)
+ * [Translate the app](https://hosted.weblate.org/projects/wallabag/android-app/) (you don't have to create an account).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
