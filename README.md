@@ -49,8 +49,8 @@ Don't forget to give the project a star! Thanks again!
 
 Here are other ways you can help:
 
-* [Report bugs and make suggestions.](https://github.com/wallabag/android-app/issues)
- * [Translate the app](https://hosted.weblate.org/projects/wallabag/android-app/) (you don't have to create an account).
+* [Report bugs and make suggestions](https://github.com/Docile-Alligator/Infinity-For-Reddit/issues)
+ * [Translate the app](https://poeditor.com/join/project?hash=b2IRyfaJv6)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
